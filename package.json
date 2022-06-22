@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest"
-  "build":"npx parcel build index.js" 
+    "build":"npx parcel build index.js" 
   },
   "repository": {
     "type": "git",
@@ -25,7 +25,5 @@
   },
   "standard": {
     "env": [ "jest" ]
-
-
   }
 }
